@@ -1,11 +1,7 @@
 # wp-gatsby-removeFronted
 
 <!-- AUTO-GENERATED-CONTENT:START (STARTER) -->
-<p align="center">
 
-    <img  src="https://github.com/mlafuentecr/wp-gatsby-removeFronted/blob/master/screenshot.png" width="60" />
-
-</p>
 <h1 align="center">
  Wordpress theme that remove front end for Gatsby's 
 </h1>
