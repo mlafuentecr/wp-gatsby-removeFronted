@@ -1,7 +1,7 @@
 
 <!-- AUTO-GENERATED-CONTENT:START (STARTER) -->
-<a href="#" rel="nofollow">
-    <img alt="Gatsby" src="https://camo.githubusercontent.com/ac31ac54c2013850b0fb8a3a4926f4718a398fb3/68747470733a2f2f7777772e6761747362796a732e6f72672f6d6f6e6f6772616d2e737667" width="60" data-canonical-src="https://www.gatsbyjs.org/monogram.svg" style="max-width:100%;">
+<a align="center" href="#" rel="nofollow">
+    <img align="center" alt="Gatsby" src="https://camo.githubusercontent.com/ac31ac54c2013850b0fb8a3a4926f4718a398fb3/68747470733a2f2f7777772e6761747362796a732e6f72672f6d6f6e6f6772616d2e737667" width="60" data-canonical-src="https://www.gatsbyjs.org/monogram.svg" style="max-width:100%;">
   </a>
 <h1 align="center">
  Wordpress theme that remove front end for Gatsby's 
