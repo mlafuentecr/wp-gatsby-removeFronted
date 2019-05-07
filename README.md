@@ -1,4 +1,3 @@
-# wp-gatsby-removeFronted
 
 <!-- AUTO-GENERATED-CONTENT:START (STARTER) -->
 
