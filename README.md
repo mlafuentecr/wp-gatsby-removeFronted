@@ -2,9 +2,9 @@
 
 <!-- AUTO-GENERATED-CONTENT:START (STARTER) -->
 <p align="center">
-  <a href="https://www.gatsbyjs.org">
-    <img alt="Gatsby" src="https://github.com/mlafuentecr/wp-gatsby-removeFronted/blob/master/screenshot.pngg" width="60" />
-  </a>
+
+    <img  src="https://github.com/mlafuentecr/wp-gatsby-removeFronted/blob/master/screenshot.png" width="60" />
+
 </p>
 <h1 align="center">
  Wordpress theme that remove front end for Gatsby's 
