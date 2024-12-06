@@ -29,4 +29,7 @@ A quick look at the top-level files
     ├── screenshot.png
     ├── style.css
 
+## 🧐 What's inside?
+    https://agh.booquita.mybluehost.me/wp-json/wp/v2/posts/1
+
 <!-- AUTO-GENERATED-CONTENT:END -->
